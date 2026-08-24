@@ -1,0 +1,6 @@
+astropy>=7
+lightkurve>=2.6
+matplotlib>=3.10
+numpy>=2
+photutils>=2
+scikit-image>=0.25
